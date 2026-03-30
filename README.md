@@ -3,7 +3,6 @@
 This project implements a comprehensive machine learning pipeline to predict customer credit mix using a publicly available dataset. It covers every aspect of the workflow, from data preprocessing to model evaluation and optimization, offering a practical guide to solving classification problems in finance.
 
 ---
-
 ## Table of Contents
 1. [Dataset Overview](#dataset-overview)
 2. [Key Steps in the Workflow](#key-steps-in-the-workflow)
